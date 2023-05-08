@@ -1,7 +1,7 @@
-# test1
+# this is week1-git
 
-## test2
+## we're learning to clone and push files
 
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
+# the README file was added.
+## practice
+###### by Negar
